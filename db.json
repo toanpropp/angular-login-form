@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "fullName": "",
+      "email": "",
+      "mobile": "",
+      "password": ""
+    }
+  ],
+
+  "signupUsers": [
+
+    {
+      "fullName": "pham thanh toan",
+      "email": "toanf@gmail.com",
+      "mobile": "1234",
+      "password": "12345"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
